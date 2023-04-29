@@ -1,11 +1,11 @@
-About result
-============
+About result-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/result-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/rustedpy/result
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/result-feedstock/blob/main/LICENSE.txt)
 
 Summary: A Rust-like result type for Python
 
